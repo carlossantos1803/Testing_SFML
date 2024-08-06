@@ -1,0 +1,8 @@
+Window ShowGame 800 600
+Font ../../fonts/tech.ttf 18 255 255 255
+Circle CPurple 20 400 300 -3.0  -3.0 255 0   255 75
+Circle CGreen  17 75  75  -1.0  1.0 0   255 0   50
+Circle CBlue   16 150 150 2.02 2.04 255 0 255 35
+Circle CBlue   13 170 90 2.02 2.04 0 255 255 10
+Circle CBlue   22 750 400 2.02 2.04 0 0 255 15
+Circle CBlue   25 600 350 2.02 2.04 255 255 0 25

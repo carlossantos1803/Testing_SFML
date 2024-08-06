@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20240724-0445-Experimental"
+	Name="X540LJ"
+	Generator="ctest-3.25.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="X540LJ"
+	OSRelease="5.15.0-116-generic"
+	OSVersion="#126~20.04.1-Ubuntu SMP Mon Jul 1 15:40:07 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="61"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7838"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1895.63"
+	>
+	<Testing>
+		<StartDateTime>Jul 24 01:10 -04</StartDateTime>
+		<StartTestTime>1721797844</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jul 24 01:10 -04</EndDateTime>
+		<EndTestTime>1721797844</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

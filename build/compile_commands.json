@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/build",
+  "command": "/usr/bin/c++  -I/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/. -g -std=c++17 -o CMakeFiles/game.dir/src/Vec2.cpp.o -c /home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/src/Vec2.cpp",
+  "file": "/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/src/Vec2.cpp"
+},
+{
+  "directory": "/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/build",
+  "command": "/usr/bin/c++  -I/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/. -g -std=c++17 -o CMakeFiles/SFML_test.dir/src/main.cpp.o -c /home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/src/main.cpp",
+  "file": "/home/alberto/Documents/CarlosTest/C_C++/GameProgramingCourse/ShowGame/src/main.cpp"
+}
+]

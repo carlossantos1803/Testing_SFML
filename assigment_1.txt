@@ -1,0 +1,13 @@
+g++ main.cpp -Imain -std=c++17 -o bin -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+
+sfml-dev.org
+
+assigment
+
+In this assignment you will be writing a c++/SFML program which will read description of shapes from configuration file, and then drawing those shapes to te screen. Each shape will have a name, position, speed, as well as properties unique to each shape type. For example, a RECTANGLE will have width and height, and a CIRCLE will have a Radius. For this assigment, the position of a shape refers to its SFML default of the upper-left corner of the shape.
+
+You are alse required to make these shapes "bounce" off the sides of the window which contains them. This means that if the shape's left side hits the left side of the window, its X speed reverses. If the top of the shape hits the top of the window, its Y speed reverses. Similiarly, if it hits the right side or bottom of the window. You can assume that all shapes will always be configure to start entirely within the window, and you don't have to worry about what happens if they start outside the window. Each shape's name should be drawn on the exact center of the shape in the given font size and color specified in the file. 
+
+
+
